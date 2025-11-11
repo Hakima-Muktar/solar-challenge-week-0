@@ -1,2 +1,12 @@
-.venv
+# Ignore data files
+/data/
+
+
+# Python envs
+venv/
+.env
+
+
+# Streamlit cache
+.streamlit/
 
